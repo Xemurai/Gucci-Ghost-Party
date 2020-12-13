@@ -4,7 +4,9 @@ First assembled Cryptoart piece on Blockchain, backed by 3 Original Gucci Ghost 
 
 -"They throw Party!"
 
-Gucci Ghost Party is the first assembled Cryptoart piece on Blockchain. It is backed by the three Original Gucci Ghost´s that appear in the assemblage.
+Gucci Ghost Party is the first assembled Cryptoart piece on Blockchain. It is backed by the three Original Gucci Ghost´s that appear in the assemblage. I used https://emblem.finance/ to achieve the backup.
+
+Essentially Gucci Ghost Party is created as a Vault wich contains the 3 Original NFT´s you can destroy Gucci Ghost party at any time and receive the 3 Originals instead or you can keep it as it is. Dont forget its the first of its kinde :).
 
 Backed by:
 
@@ -17,4 +19,5 @@ Gucci Ghost Pink Silver
 Gucci Ghost Aqua Pink
 (Trevor Andrew)
 
-*The Creator of Gucci Ghost Party is Xemurai
+All 3 Gucci Ghost´s where initially offered on https://niftygateway.com/
+
