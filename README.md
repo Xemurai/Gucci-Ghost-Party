@@ -2,7 +2,7 @@
 First assembled Cryptoart piece on Blockchain, backed by 3 Original Gucci Ghost NFT´s by Trevor Andrew
 -"What happens when Trevor Andrew´s Original Gucci Ghost´s move into a Vault together?"
 
--"They throw Party!"
+-"They throw a Party!"
 
 Gucci Ghost Party is the first assembled Cryptoart piece on Blockchain. It is backed by the three Original Gucci Ghost´s that appear in the assemblage. I used https://emblem.finance/ to achieve the backup.
 
